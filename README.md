@@ -1,25 +1,24 @@
-[![MasterHead](https://github.com/JasleenSingh/JasleenSingh/blob/main/code-banner.gif)](https://www.linkedin.com/in/JasleenSingh/)
+[![MasterHead](https://github.com/jassi-tech/JasleenSingh/blob/main/code-banner.gif)](https://www.linkedin.com/in/jassi-tech/)
 
 <h1 align="center">Hi 👋, I'm Jasleen Singh</h1>
-<h3 align="center">Software Engineer | Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/JasleenSingh/JasleenSingh/blob/main/animated-coding.gif">
-
+<h3 align="center">Front-End Develper </h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/jassi-tech/JasleenSingh/blob/main/animated-coding.gif">
 
 - 🔭 I’m currently working on [Antier Solutions](https://www.antiersolutions.com/)
 
 - 🌱 I’m planning to explore **Next js, React Native and more.**
 
-- 👨‍💻 I’m also currently working on [UMS (Microservice Project)](https://github.com/JasleenSingh/university-management-api-gateway)
+- 👨‍💻 I’m also currently working on [UMS (Microservice Project)](https://github.com/jassi-tech/university-management-api-gateway)
 
-- 👨‍💻 All of my projects are available at [https://saalim-shadman.web.app/](https://saalim-shadman.web.app/)
+- 👨‍💻 All of my projects are available at [https://jasleensingh/](https://jasleensingh.app/)
 
-- 💬 Ask me about **Software Engineering and CS Student Life**
+- 💬 Ask me about **Front-end development, React, Next.js,**
 
 - 📫 How to reach me **JasleenSingh44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/JasleenSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JasleenSingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jassi-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JasleenSingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
