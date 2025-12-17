@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/jassi-tech/JasleenSingh/blob/main/code-banner.gif)](https://www.linkedin.com/in/jassi-tech/)
+[![MasterHead](https://github.com/jassi-tech/jassi-tech/blob/main/code-banner.gif)](https://www.linkedin.com/in/jassi-tech/)
 <h1 align="center">Hi 👋, I'm Jasleen Singh</h1>
 <h3 align="center">Front-End Develper </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/jassi-tech/JasleenSingh/blob/main/animated-coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/jassi-tech/jassi-tech/blob/main/animated-coding.gif">
 
 - 🔭 I’m currently working on [Antier Solutions](https://www.antiersolutions.com/)
 
