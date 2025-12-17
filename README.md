@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/jassi-tech/JasleenSingh/blob/main/code-banner.gif)](https://www.linkedin.com/in/jassi-tech/)
-
 <h1 align="center">Hi 👋, I'm Jasleen Singh</h1>
 <h3 align="center">Front-End Develper </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/jassi-tech/JasleenSingh/blob/main/animated-coding.gif">
@@ -10,7 +9,7 @@
 
 - 👨‍💻 I’m also currently working on [UMS (Microservice Project)](https://github.com/jassi-tech/university-management-api-gateway)
 
-- 👨‍💻 All of my projects are available at [https://jasleensingh/](https://jasleensingh.app/)
+- 👨‍💻 All of my projects are available at [https://jasleen-singh.vercel.app/](https://jasleen-singh.vercel.app/)
 
 - 💬 Ask me about **Front-end development, React, Next.js,**
 
