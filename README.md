@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m also currently working on [UMS (Microservice Project)](https://github.com/jassi-tech/university-management-api-gateway)
 
-- 👨‍💻 All of my projects are available at [https://jasleen-singh.vercel.app/](https://jasleensingh.sendio.in/)
+- 👨‍💻 All of my projects are available at [https://jasleensingh.sendio.in](https://jasleensingh.sendio.in/)
 
 - 💬 Ask me about **Front-end development, React, Next.js,**
 
